@@ -3,8 +3,8 @@
 ---
 
 ## Tabla de contenido:
-*[Integrantes](#integrantes)
-*[Proyecto](#proyecto)
+[Integrantes](#integrantes)
+[Proyecto](#proyecto)
 * #### [**Entregables**](#entregables)
 
 ---
