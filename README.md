@@ -1,10 +1,9 @@
 # EJemplO
 
 ## Tabla de contenido: 
-*#### [**Integrantes**](#integrantes)
+* #### [**Integrantes**](#integrantes)
 
-## Encabezado 1
-Este es el contenido del Encabezado 1.
+## <a name= "integrantes"><
 
 ## Encabezado 2
 Este es el contenido del Encabezado 2.
