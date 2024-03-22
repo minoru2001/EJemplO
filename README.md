@@ -4,7 +4,7 @@
 
 ## Tabla de contenido:
 [Integrantes](#integrantes)
-* #### [**Proyecto**](#proyecto)
+[Proyecto](#proyecto)
 * #### [**Entregables**](#entregables)
 
 ---
@@ -19,6 +19,7 @@
 | Bruno Tello | gustavo.tello@upch.pe |
   
 ---
+### Proyecto
 ## <a name="proyecto"></a>Proyecto:
 ## *ANALIZANDO SEÑALES DE ECG*
 ## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un Electrocardiograma (ECG)*
