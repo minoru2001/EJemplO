@@ -3,12 +3,12 @@
 ---
 
 ## Tabla de contenido:
-* #### [**Integrantes**](#integrantes)
+[Integrantes](#integrantes)
 * #### [**Proyecto**](#proyecto)
 * #### [**Entregables**](#entregables)
 
 ---
-##<a name="integrantes"></a>Integrantes:
+### Integrantes
 ![img](Software/wsp.png)
 ###### Después lo ponemos más serio (no tenemos fotos juntos)
 | **Integrante** | **Correo**|
